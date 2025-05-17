@@ -1,2 +1,4 @@
-# This is GCP Devops Project Folder 
-# Learning GCP Devops Course
+# Flask Application
+
+- Creating a flask application
+- Deploying the application to GKE
